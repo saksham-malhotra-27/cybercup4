@@ -1,4 +1,4 @@
-![Screenshot 2024-10-19 080955](https://github.com/user-attachments/assets/da0e9f52-fb55-4636-908c-8525c28ba19a)
+![image](https://github.com/user-attachments/assets/f0f8ce04-2b46-43a2-9a1a-43f30530b490)
 
 # AI-Driven Anomaly Detection in Cloud Infrastructure
 
